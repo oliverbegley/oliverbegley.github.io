@@ -1,0 +1,33 @@
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #efefef;
+  text-align: center;
+}
+
+.linkedin-icon {
+  height: 35px;
+}
+
+.github-icon {
+  height: 30px;
+}
+.maincont{
+    background-color: aqua;
+}
+
+.footertest{
+  width: 100%;
+}
+
+.credits {
+  float: right;
+  color: grey;
+  font-size: 90%;
+}
+
+.icons{
+  float: left
+}
