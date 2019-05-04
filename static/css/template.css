@@ -1,21 +1,12 @@
-.gallery-cont {
-    margin-top: 20px;
-    margin-bottom: 40px;
-}
-
-
-.image-container {
+.containe {
     position: relative;
-    width: 100%;
-    border-radius: 20px;
-    margin-bottom: 20px;
+    width: 50%;
   }
   
   .image {
     display: block;
     width: 100%;
     height: auto;
-    border-radius: 20px;
   }
   
   .overlay {
@@ -28,12 +19,11 @@
     width: 100%;
     opacity: 0;
     transition: .5s ease;
-    background-color: grey;
-    border-radius: 20px;
+    background-color: #008CBA;
   }
   
-  .image-container:hover .overlay {
-    opacity: 0.8;
+  .containe:hover .overlay {
+    opacity: 1;
   }
   
   .text {
