@@ -6,3 +6,7 @@
 .project-jumbotron{
     box-shadow: 5px 5px 5px grey;
 }
+
+.project-view-button{
+    float:right;
+}
